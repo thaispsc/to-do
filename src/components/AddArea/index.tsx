@@ -1,4 +1,3 @@
-import { getValue } from '@testing-library/user-event/dist/utils'
 import { useState, KeyboardEvent } from 'react'
 import * as C from './styles'
 
