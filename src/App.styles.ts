@@ -17,6 +17,6 @@ margin: 0;
 padding: 0;
 color: #FFF;
 text-align: center;
-border-bottom: 1px solid #444;
+font-size: 40px;
 padding-bottom: 20px;
 `
